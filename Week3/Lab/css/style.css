@@ -1,0 +1,32 @@
+body {
+  height: 800px;
+  background: linear-gradient(to bottom, #4ed6e8 0%, #1c14b5 100%);
+}
+
+img {
+  border: 2px solid;
+  border-color: black;
+}
+
+#v1{
+  float: left;
+}
+ #v2 {
+   float: right;
+ }
+
+#v3 {
+  float: left;
+}
+
+#t1 {
+  float: right;
+}
+
+#t2 {
+  float: left;
+}
+
+#t3 {
+  float: right;
+}
